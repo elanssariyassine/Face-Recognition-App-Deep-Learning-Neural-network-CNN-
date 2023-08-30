@@ -23,10 +23,10 @@ The dataset we used contains images of 28 individuals, including actors such as 
 ## Application Interfaces
 
 - **interface 1 (Home Page) :**
-![]()
+![](https://github.com/elanssariyassine/Face-Recognition-App-Deep-Learning-Neural-network-CNN-/blob/main/reconnaissance%20de%20visage/App.png)
 when we click on capture button :
-![]()
+![](https://github.com/elanssariyassine/Face-Recognition-App-Deep-Learning-Neural-network-CNN-/blob/main/reconnaissance%20de%20visage/app%20test.png)
 
 - **interface 2 :**
 The second interface is used to display the five most similar individuals to the image captured by the previous interface.
-![]()
+![](https://github.com/elanssariyassine/Face-Recognition-App-Deep-Learning-Neural-network-CNN-/blob/main/reconnaissance%20de%20visage/app%20result.png)
