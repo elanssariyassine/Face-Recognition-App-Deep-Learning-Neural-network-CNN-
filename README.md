@@ -15,7 +15,7 @@ The dataset we used contains images of 28 individuals, including actors such as 
 * **Tkinter**
 
 ## Model Architecture
-![]()
+![](https://github.com/elanssariyassine/Face-Recognition-App-Deep-Learning-Neural-network-CNN-/blob/main/Architecture.png)
 
 ## Model Accuracy
 - 80%
